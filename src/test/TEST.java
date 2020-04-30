@@ -19,6 +19,8 @@ public class TEST {
         //
         //
         //FIN DE LA NUEVA A LA PAR QUE EROTICA RAMA
+        
+       //OTRO CAMBIO MAS, QUE PESADEZ
         File file2read=new File("C:"+File.separator+"Users"+File.separator+"MisterHyde"+File.separator+"Desktop"+File.separator+"pass.txt");
         Scanner getLines=new Scanner(file2read);
         String fileConcat="";
