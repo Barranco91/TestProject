@@ -6,6 +6,12 @@ import java.util.Scanner;
 import java.util.StringTokenizer;
 
 public class TEST {    
+    //ESTO ES UNA ACTUALIZACION DEL CODIGO
+    //
+    //
+    //
+    //
+    //FIN DE LA ACTUALIZACION
     public static void main(String[] args) throws FileNotFoundException {
         File file2read=new File("C:"+File.separator+"Users"+File.separator+"MisterHyde"+File.separator+"Desktop"+File.separator+"pass.txt");
         Scanner getLines=new Scanner(file2read);
